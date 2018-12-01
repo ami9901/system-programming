@@ -1,0 +1,21 @@
+( openpara
+) closepara
+{ openbrace
+} closebrace
+< lesser
+>greater
+" doublequote
+' singlequote
+: colon
+; semicolon
+# preprocessor
+= equal
+== assign
+% percentage
+^ bitwise
+& refrence
+* star
++ add
+- sub
+\ backslash
+/ slash
